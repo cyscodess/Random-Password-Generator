@@ -87,16 +87,15 @@ button:hover {
 }
 
 p {
-  width: 50%;
   background-color: #363E47;
   color: #de89be;
   margin: 2rem 2rem 0 2rem;
   border-radius: 3px;
   padding: 1em;
-  height: 40px;
   min-width: 200px;
+  height: 50px;
   width: 50%;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   letter-spacing: 1px;
 }
 
